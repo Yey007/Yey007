@@ -6,4 +6,4 @@ I'm currently working on... a touch too many things. However, my main project is
 
 ![stats](https://github-readme-stats.vercel.app/api?username=Yey007&show_icons=true&count_private=true&theme=onedark)
 
-![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yey007&layout=compact&theme=onedark)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yey007&layout=compact&theme=onedark&hide=jupyter%20notebook&langs_count=8)
